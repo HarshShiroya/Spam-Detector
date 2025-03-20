@@ -130,8 +130,3 @@ Predicts whether a given message is spam or not.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Dataset: [SPAM Data.csv]
-- Libraries: scikit-learn, NLTK, Flask, Flask-Limiter 
